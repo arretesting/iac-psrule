@@ -7,7 +7,7 @@ pool:
 steps:
   - task: AzurePowerShell@5
     inputs:
-      azureSubscription: "AzureServiceConnection" # Update with your service connection name
+      azureSubscription: "EPAC-DEV-Root Secret" # Update with your service connection name
       ScriptType: "InlineScript"
       pwsh: true
       azurePowerShellVersion: "LatestVersion"

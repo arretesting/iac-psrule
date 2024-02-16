@@ -1,6 +1,6 @@
 resource kv 'Microsoft.KeyVault/vaults@2023-02-01' = {
   name: 'awkv01wuaeu'
-  location: 'australiaeast'
+  location: 'westeurope'
   properties: {
     sku: {
       family: 'A'
