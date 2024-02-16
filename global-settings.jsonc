@@ -5,8 +5,8 @@
         {
             "pacSelector": "psrule",
             "cloud": "AzureCloud",
-            "tenantId": "bdb8ea1c-34da-4181-8895-6b79af002b4e", // Update with your tenant Id
-            "deploymentRootScope": "/subscriptions/3971387d-6bde-45ec-b0a1-276c008799e1" // Update with the scope your resources will be deployed at
+            "tenantId": "956cbafe-6b46-4031-9902-d5f2339f5e1a", // Update with your tenant Id
+            "deploymentRootScope": "/subscriptions/94511f91-5631-4ea0-9ad1-a08aded06f5a" // Update with the scope your resources will be deployed at
         }
     ]
 }
